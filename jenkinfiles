@@ -2,3 +2,7 @@ hi this my hdfcbank app
 from jdk:1.7
 int i=10;
 String str="Hi"
+
+from jdk:1.8
+int i=100;
+String str="intrest 10%"
